@@ -53,3 +53,33 @@ a:hover {
 a:active {
 	color:#d2738a;
 	}
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+form input,
+form textarea {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+}
+
+form button {
+  padding: 10px;
+  background-color: #d2738a;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #c1b492;
+}
