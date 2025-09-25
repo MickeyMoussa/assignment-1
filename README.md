@@ -1,5 +1,7 @@
 # assignment-1
 In this portfolio. I emphasized using the latest tools taught in class, particularly the boxmodel and flex. 
+## how to run
+this is a fairly rudimentary program. You can run this by downloading or forking this repo, then running the index.html file with a local browser. 
 ## Boxmodel
 I used to the boxmodel to segment my page into box segments for the About Me, Projects, and More Info. sections. 
 ## Flex
