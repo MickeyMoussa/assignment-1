@@ -1,0 +1,55 @@
+* {
+    font-family: "futura";
+}
+
+body {
+ 	background-image:url("../assets/bg_main1.gif");
+	background-color:#000000;
+	color:white;	
+}
+
+.article {
+	background-color: black;
+	padding: 100px;
+	background-size: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+	width: 300px;
+	height: auto;
+}
+
+nav {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+nav div {
+	justify-content: space-evenly;
+    margin: 5px;
+    padding: 10px;
+	flex: 010;
+      }
+nav p img {
+  width: 100px;   /* or any fixed value */
+  height: 100px;
+  object-fit: cover; /* keeps aspect ratio, crops if needed */
+}
+
+a:link {
+	color:#d2738a;
+	}
+	
+a:visited {
+	color:#d2738a;
+	}
+	
+a:hover {
+	color:#c1b492;
+	animation: wiredB2 1s ease-out infinite;
+
+	}
+	
+a:active {
+	color:#d2738a;
+	}
