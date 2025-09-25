@@ -1,6 +1,6 @@
 # assignment-1
 In this portfolio. I emphasized using the latest tools taught in class, particularly the boxmodel and flex. 
-## how to run
+## How to Run
 this is a fairly rudimentary program. You can run this by downloading or forking this repo, then running the index.html file with a local browser. 
 ## Boxmodel
 I used to the boxmodel to segment my page into box segments for the About Me, Projects, and More Info. sections. 
@@ -12,4 +12,8 @@ Although I used the flex: xyz shortcut for this, I made sure the y value that co
 I used a gif as a background img to achieve a dark-blue retro aesthetic that I find attrative. Additionally, I adjusted the link state colors since blue links with a dark blue background doesn't match.
 ##JS
 JS was used to write a greeting message that depending on the time of day changed the message.
+## AI Usage
+ChatGPT was used to a minor degree, particularly for:
+1. writing comments
+2. code generation for JS
 
